@@ -1,4 +1,4 @@
  # hepatitis-data
- #Apply Random-forest
- #neural-network
- #& K-NN
+ Apply Random-forest
+ neural-network
+ & K-NN
